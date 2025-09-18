@@ -5,11 +5,11 @@ let numBinario = "";
 
 do{
 if(num%2===0){
-    numBinario+="0";
+    numBinario = "0" + numBinario;
 }else{
-    numBinario+="1";
+    numBinario = "1" + numBinario;
 }
 num = Math.floor(num / 2);
 }while(num>0)
 
-    console.log(numBinario);
+console.log(numBinario);
