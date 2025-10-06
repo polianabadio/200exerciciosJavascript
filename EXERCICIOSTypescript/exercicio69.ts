@@ -1,0 +1,1 @@
+//Escreva uma função que aceite um número e uma função de callback, e execute a função de callback o número de vezes especificado.
