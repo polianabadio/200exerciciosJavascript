@@ -1,0 +1,1 @@
+//Dado dois arrays, verifique se o segundo array é um subarray do primeiro.
